@@ -14,5 +14,5 @@ Ph.D. Research Scholar, Department of Psychology, University of Delhi
 - Qualitative and Quantitative Research Methodologies
 ## Contact
 - ORCID: [https://orcid.org/0009-0009-9654-3977]
-- Google Scholar: [https://scholar.google.com/citations?hl=en&user=6RecxDwAAAAJ]
+- Google Scholar: [Google Scholar] (https://scholar.google.com/citations?hl=en&user=6RecxDwAAAAJ)
 - Email: [muktarajput.research@gmail.com, mrajput.phd2025@psychology.du.ac.in]
