@@ -12,6 +12,12 @@ Ph.D. Research Scholar, Department of Psychology, University of Delhi
 - R
 - SEM
 - Qualitative and Quantitative Research Methodologies
+## Currently Learning
+- SNA
+- Bayesian Statistics
+- QGIS
+- NLP for Psychology
+- Git and Open Science
 ## Contact
 - Email: [muktarajput.research@gmail.com, mrajput.phd2025@psychology.du.ac.in]
 ## Profiles
